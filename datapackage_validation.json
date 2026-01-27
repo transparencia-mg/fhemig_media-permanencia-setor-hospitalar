@@ -1,0 +1,85 @@
+{
+  "version": "4.16.6",
+  "time": 0.039,
+  "errors": [],
+  "tasks": [
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "mp_setor",
+        "path": "data/mp_setor.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "unidade",
+              "type": "string"
+            },
+            {
+              "name": "ano",
+              "type": "integer"
+            },
+            {
+              "name": "mes",
+              "type": "integer"
+            },
+            {
+              "name": "setor_permanencia",
+              "type": "string"
+            },
+            {
+              "name": "media_permanencia_setor",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "ec24c81609af987517873a85667aedb8",
+          "bytes": 68942,
+          "fields": 5,
+          "rows": 1273
+        }
+      },
+      "time": 0.03,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    }
+  ],
+  "stats": {
+    "errors": 0,
+    "tasks": 1
+  },
+  "valid": true
+}
