@@ -1,6 +1,9 @@
 Conjunto de dados referentes a unidade de medida que representa relação entre o total de pacientes-dia e o total de pacientes que tiveram saídas por setor do hospital em determinado período, incluindo os óbitos. Representa o tempo médio em dias que os pacientes ficaram internados no setor do hospital.
+
 Termos relacionados: duração média da internação por setor.
+
 Fonte: https://bvsms.saude.gov.br/bvs/publicacoes/padronizacao_censo.pdf
+
 Como participar
 Saiba como contribuir com a documentação deste conjunto de dados!
 A documentação deste conjunto de dados está sendo feita de forma aberta e colaborativa no Github. Existem duas alternativas para enviar sua contribuição:
@@ -10,4 +13,5 @@ Indicação de expressões imprecisas presentes na documentação; Sugestões pa
 •	Manifestações de Ouvidoria: Denúncia, Reclamação, Crítica, Elogio ou Sugestões.
 •	Pedido de Acesso à Informação: Acesso às informações dos órgãos e entidades estaduais que não estejam publicamente disponíveis.
 •	Pedido de abertura de bases de dados: Solicitação de abertura de bases de dados dos órgãos e entidades que não estejam publicamente disponíveis.
+
 
