@@ -2,7 +2,7 @@ name: media-permanencia-setor-hospitalar
 owner_org: fundacao-hospitalar-do-estado-de-minas-gerais-fhemig
 profile: data-package
 resources:
-  - description: Dados de média de permanência por setor hospitalar por unidade FHEMIG a partir de 2023.
+  - description: Dados de média de permanência por setor hospitalar por unidade FHEMIG divididos por setor (Tasy) ou centro de custo hospitalar (SIGH).
     dialect:
       delimiter: ;
     encoding: utf-8-sig
@@ -26,5 +26,5 @@ resources:
           type: string
           description: "Média de permanência por setor hospitalar (tempo médio em dias que os pacientes ficaram internados no setor hospitalar)."
     scheme: file
-    title: Média de permanência por setor hospitalar a partir de 2023
+    title: Média de permanência por setor hospitalar.
 title: Media permanencia setor hospitalar
