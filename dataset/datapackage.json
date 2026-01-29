@@ -34,7 +34,7 @@
           {
             "name": "media_permanencia_setor",
             "type": "string",
-            "description": "Média de permanência por setor hospitalar (tempo médio em dias que os pacientes ficaram internados no setor hospital)."
+            "description": "Média de permanência por setor hospitalar (tempo médio em dias que os pacientes ficaram internados no setor hospitalar)."
           }
         ]
       },
