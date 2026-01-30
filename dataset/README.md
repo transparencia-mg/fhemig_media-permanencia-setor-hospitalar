@@ -1,5 +1,4 @@
-Conjunto de dados referentes a unidade de medida que representa relação entre o total de pacientes-dia e o total de pacientes que tiveram saídas por setor do hospital em determinado período, incluindo os óbitos. Representa o tempo médio em dias que os pacientes ficaram internados no setor do hospital.
+Conjunto de dados referentes a unidade de medida que representa o tempo médio em dias que os pacientes ficaram internados em determinado setor hospitalar. Este conjunto apresenta dados apenas das unidades da Fhemig que já migragram para o sistema ERP Tasy, que armazena informações sobre movimentações intrahospitalares.
 
 Termos relacionados: duração média da internação por setor.
 
-Fonte: https://bvsms.saude.gov.br/bvs/publicacoes/padronizacao_censo.pdf
