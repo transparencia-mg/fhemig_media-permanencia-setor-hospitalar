@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.066,
+  "time": 0.053,
   "errors": [],
   "tasks": [
     {
@@ -40,7 +40,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Média de permanência por setor hospitalar.",
+        "title": "Média de permanência por setor hospitalar",
         "stats": {
           "hash": "",
           "bytes": 0,
@@ -48,7 +48,7 @@
           "rows": 0
         }
       },
-      "time": 0.057,
+      "time": 0.044,
       "scope": [
         "hash-count-error",
         "byte-count-error",
