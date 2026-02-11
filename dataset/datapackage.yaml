@@ -26,5 +26,5 @@ resources:
           type: string
           description: "Média de permanência por setor hospitalar (tempo médio em dias que os pacientes ficaram internados no setor hospitalar)."
     scheme: file
-    title: Média de permanência por setor hospitalar.
-title: Media permanencia setor hospitalar
+    title: Média de permanência por setor hospitalar
+title: Média de Permanência por Setor Hospitalar
